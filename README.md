@@ -1,4 +1,4 @@
-datetimepicker-webjars
+datetimepicker-webjar
 ======================
 
 Webjar for jquery datetimepicker plugin
